@@ -23,7 +23,7 @@ Install
 To install, run the following commands:
 
 ```
-git clone git@github.com:wead-hsu/ec-benchmarks.git
+git clone https://github.com/CavalloneChen/ec-benchmarks.git
 cd ec-benchmarks
 python3 setup.py install
 ```
